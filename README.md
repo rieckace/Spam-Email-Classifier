@@ -23,7 +23,7 @@ Please download it from Kaggle:
 
 Once downloaded:
 1. Rename the file to `emails.csv`
-2. Place it in the project root folder (same as `app.py`).
+2. Place it in the project root folder (same as `main.py`).
 
 ---
 
